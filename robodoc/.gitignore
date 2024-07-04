@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# not to push env file
+.env
+
 # testing
 /coverage
 
